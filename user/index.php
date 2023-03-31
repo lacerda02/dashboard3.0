@@ -51,7 +51,7 @@ include_once("../db.php");
 							?>	
 					  
                     <tbody>
-					<tr class="table-info">
+					
                           <td> <?php echo $value['id'] ?></td>
                           <td> <?php echo $value['name'] ?> </td>
                           <td> <?php echo $value['contact'] ?> </td>

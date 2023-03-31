@@ -8,11 +8,10 @@ include_once("../header.php")?>
 					<ul>
 						<li> <a href="home.php"><i class="fas fa-tachometer-alt"></i> <span>Dashboard</span></a> </li>
 						<li class="list-divider"></li>
-						<li class="submenu"> <a href="#"><i class="fas fa-suitcase"></i> <span> Booking </span> <span class="menu-arrow"></span></a>
+						<li class="submenu"> <a href="#"><i class="fas fa-suitcase"></i> <span> Produtos </span> <span class="menu-arrow"></span></a>
 							<ul class="submenu_class" style="display: none;">
-								<li><a href="all-booking.html"> All Booking </a></li>
-								<li><a href="edit-booking.html"> Edit Booking </a></li>
-								<li><a href="add-booking.html"> Add Booking </a></li>
+								<li><a href="product/index.php"> Todos Produtos</a></li>
+								
 							</ul>
 						</li>
 						<li class="submenu"> <a href="user/index.php"><i class="fas fa-user"></i> <span> Usuarios </span> <span class="menu-arrow"></span></a>
