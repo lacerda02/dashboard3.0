@@ -45,7 +45,7 @@ include_once("../header.php")?>
 				<div class="page-header">
 					<div class="row align-items-center">
 						<div class="col">
-							<h3 class="page-title mt-5">Add Usuarios</h3> </div>
+							<h3 class="page-title mt-5">Add Produtos</h3> </div>
 					</div>
 				</div>
 				<div class="row">
