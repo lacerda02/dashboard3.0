@@ -11,12 +11,13 @@ include_once("../header.php")?>
 						<li class="submenu"> <a href="#"><i class="fas fa-suitcase"></i> <span> Produtos </span> <span class="menu-arrow"></span></a>
 							<ul class="submenu_class" style="display: none;">
 								<li><a href="product/index.php"> Todos Produtos</a></li>
+								<li><a href="product/add.php"> Add Produtos</a></li>
 								
 							</ul>
 						</li>
 						<li class="submenu"> <a href="user/index.php"><i class="fas fa-user"></i> <span> Usuarios </span> <span class="menu-arrow"></span></a>
 							<ul class="submenu_class" style="display: none;">
-								<li><a href="index.php"> Todos Usuarios</a></li>
+								<li><a href="user/index.php"> Todos Usuarios</a></li>
 								<li><a href="edit.php"> Editar Usuarios </a></li>
 								<li><a class="active" href="add.php"> Add usuarios </a></li>
 							</ul>

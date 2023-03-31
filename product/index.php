@@ -13,7 +13,7 @@ include_once("../db.php");
 					<div class="row align-items-center">
 						<div class="col">
 							<div class="mt-5">
-								<h4 class="card-title float-left mt-2">Produtos</h4> <a href="Product/add.php" class="btn btn-primary float-right veiwbutton">Add Customers</a> </div>
+								<h4 class="card-title float-left mt-2">Produtos</h4> <a href="product/add.php" class="btn btn-primary float-right veiwbutton">Add Produtos</a> </div>
 						</div>
 					</div>
 				</div>

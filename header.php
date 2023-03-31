@@ -73,7 +73,7 @@ $base_url = 'http://localhost/dashboard/';
 						<li class="submenu"> <a href="#"><i class="fas fa-key"></i> <span> Produtos </span> <span class="menu-arrow"></span></a>
 							<ul class="submenu_class" style="display: none;">
 								<li><a href="product/index.php">Todos productos </a></li>
-								
+								<li><a href="product/add.php"> Add Produtos</a></li>
 							</ul>
 						</li>
 						
